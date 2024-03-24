@@ -1,0 +1,8 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\bin\Debug\baslangıc bitis artis.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\bin\Debug\baslangıc bitis artis.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\obj\x86\Debug\baslangıc_bitis_artis.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\obj\x86\Debug\baslangıc_bitis_artis.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\obj\x86\Debug\baslangıc bitis artis.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\obj\x86\Debug\baslangıc bitis artis.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\obj\x86\Debug\baslangıc bitis artis.pdb
+C:\Users\ACER-V3\Documents\Visual Studio 2010\Projects\baslangıc bitis artis\baslangıc bitis artis\obj\x86\Debug\baslangıc bitis artis.csprojResolveAssemblyReference.cache
